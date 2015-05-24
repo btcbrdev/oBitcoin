@@ -6,4 +6,4 @@ Construir conteúdo para um tópico fixo no sub reddit /r/oBitcoin
 
 Ajude editando: https://github.com/btcbrdev/oBitcoin/wiki/Post-fixo-no-reddit-para-novatos
 
-Ou faça uma doação para 3B7PiJ6ntDYviJ8F6KrYqtW1mkzbsc7kRT
+Ou faça uma doação para 1oBitjZQv8QgV3JV5HVckvpgpQVAyT3vu
